@@ -1,22 +1,5 @@
-# ST449-project-2021
+# Deep Learning-project-2021
 
-This is the repository for the course project. Please keep anything project related in this repository.
-
-**Important dates**:
-   * **Project proposal deadline**: 14th March, 5pm London UK time (fill in the information below by this date)
-   * **First notification deadline**: 28th March, 5pm London UK time (approval of project topic or request for revision by this date)
-   * **Project topic approval deadline**: 31st March, 5pm London UK time (all project topics must be approved by this date)
-   * **Project solution submission deadline**: 30th April, 5pm London UK time
-
-Your first task is the propose your project topic by filling the information requested below. 
-
-You are encouraged to propose your course project topic as soon as possible but not later than by the project proposal deadline indicated above. We will try to process your project proposal and provide feedback as soon as possible. In any case, the first feedback from us will not be later than by the first notification deadline indicated above. All project topics must be approved by the project approval deadline indicated above -- the approval will be indicated in the feedback section below. 
-
-You will receive feedback for your project topic proposal in the feedback section below of this Markdown file. A project topic proposal may be immediately approved or some revision may be required. The feedback should be limited to a few rounds of interactions (one or two) in order to deal with the workload. 
-
----
-
-Please add the following information:
 
 ## Project title:
 
