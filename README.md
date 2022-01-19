@@ -84,14 +84,3 @@ I choose using Deep Learning to analyze sentiments of product reviews that can h
 ---
 
 
-## Candidate project topics: 
-
-Here you may find information about some candidate project topics: [Project.md](https://github.com/lse-st449/lectures2021/blob/master/Projects.md).
-
-**Important**: You do not need to take a project topic listed in our list of suggestions -- you are encourged to come up with a project topic proposal of your own, which is not listed in our list.
-
-
-## Marking criteria:
-
-<img src="https://github.com/lse-st449/lectures2021/blob/main/images/ST449-final-coursework-rubric.png"></img>
- 
